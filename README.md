@@ -1,4 +1,4 @@
-# Netskope Client MSI Parameter Wizard
+# Netskope Client MSI Wizard
 
 A simple HTML/JavaScript-based wizard to help generate installation commands for the Netskope Client MSI package on Windows. It's designed as a convenience tool for IT administrators who need to assemble parameters quickly and reliably.
 
